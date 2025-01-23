@@ -4,14 +4,6 @@ A simple RESTful API built with [Fiber](https://gofiber.io/) and MongoDB for man
 
 ---
 
-## Table of Contents
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [API Endpoints](#api-endpoints)
-
----
-
 ## ✨ Features
 
 - **Create** new todos with a body field and a completed status.
