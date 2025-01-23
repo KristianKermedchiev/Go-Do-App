@@ -1,6 +1,6 @@
 # Todo App 🚀
 
-A simple RESTful API built with [Fiber](https://gofiber.io/) and MongoDB for managing a todo list.
+A simple RESTful API built with [Fiber](https://gofiber.io/) and [MongoDB](https://www.mongodb.com/) for managing a todo list.
 
 ---
 
